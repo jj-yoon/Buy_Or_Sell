@@ -17,7 +17,7 @@ With historical Bitcoin data that has been generating for well over a decade now
 
 [Data](https://www.kaggle.com/maxwells/btcusd) consists of Bitcoin's open, high, low, close, and tick volume values from March 20, 2011 to June 15, 2011. Bitcoin is the first and largest cryptocurrency created to date (launched in 2008).
 
-[The Model](images/download.png)
+![The Model](images/download.png)
 
 
 ### The Model
